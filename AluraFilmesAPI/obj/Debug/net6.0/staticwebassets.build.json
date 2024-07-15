@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rdRSXEvkf2RdBMC9LYWGSTVi2brtpK5dY9OO1NcIN3Y=",
+  "Source": "AluraFilmesAPI",
+  "BasePath": "_content/AluraFilmesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
