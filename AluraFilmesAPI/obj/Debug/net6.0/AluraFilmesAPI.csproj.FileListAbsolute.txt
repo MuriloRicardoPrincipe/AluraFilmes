@@ -45,3 +45,6 @@ C:\Users\muril\source\repos\AluraFilmesAPI\AluraFilmesAPI\bin\Debug\net6.0\Micro
 C:\Users\muril\source\repos\AluraFilmesAPI\AluraFilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\muril\source\repos\AluraFilmesAPI\AluraFilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\muril\source\repos\AluraFilmesAPI\AluraFilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\muril\source\repos\AluraFilmesAPI\AluraFilmesAPI\obj\Debug\net6.0\AluraFilmesAPI.sourcelink.json
+C:\Users\muril\source\repos\AluraFilmesAPI\AluraFilmesAPI\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\muril\source\repos\AluraFilmesAPI\AluraFilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll

@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\dtos\\readfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\dtos\\readfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\controllers\\filmecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\controllers\\filmecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\dtos\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\dtos\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\controllers\\cinemacontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\controllers\\cinemacontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\dtos\\updatefilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\dtos\\updatefilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\data\\filmescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\data\\filmescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\controllers\\sessaocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\controllers\\sessaocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\dtos\\readsessaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\dtos\\readsessaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\migrations\\20240722115407_resticti confi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\migrations\\20240722115407_resticti confi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\migrations\\20240722114004_sessaocinamefilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\migrations\\20240722114004_sessaocinamefilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|c:\\users\\muril\\source\\repos\\alurafilmesapi\\alurafilmesapi\\migrations\\20240722112003_filme nulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE38F18B-9950-4434-8744-8D74A15C4C78}|AluraFilmesAPI\\AluraFilmesAPI.csproj|solutionrelative:alurafilmesapi\\migrations\\20240722112003_filme nulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,104 +54,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReadFilmeDto.cs",
-              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Dtos\\ReadFilmeDto.cs",
-              "RelativeDocumentMoniker": "AluraFilmesAPI\\Dtos\\ReadFilmeDto.cs",
-              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Dtos\\ReadFilmeDto.cs",
-              "RelativeToolTip": "AluraFilmesAPI\\Dtos\\ReadFilmeDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T11:40:52.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateFilmeDto.cs",
-              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Dtos\\UpdateFilmeDto.cs",
-              "RelativeDocumentMoniker": "AluraFilmesAPI\\Dtos\\UpdateFilmeDto.cs",
-              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Dtos\\UpdateFilmeDto.cs",
-              "RelativeToolTip": "AluraFilmesAPI\\Dtos\\UpdateFilmeDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T11:25:17.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FilmeProfile.cs",
-              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Profiles\\FilmeProfile.cs",
-              "RelativeDocumentMoniker": "AluraFilmesAPI\\Profiles\\FilmeProfile.cs",
-              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Profiles\\FilmeProfile.cs",
-              "RelativeToolTip": "AluraFilmesAPI\\Profiles\\FilmeProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T10:51:25.376Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Program.cs",
-              "RelativeDocumentMoniker": "AluraFilmesAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Program.cs",
-              "RelativeToolTip": "AluraFilmesAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T10:47:48.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "FilmeControllers.cs",
               "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Controllers\\FilmeControllers.cs",
               "RelativeDocumentMoniker": "AluraFilmesAPI\\Controllers\\FilmeControllers.cs",
               "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Controllers\\FilmeControllers.cs",
               "RelativeToolTip": "AluraFilmesAPI\\Controllers\\FilmeControllers.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAuwCkAAABeAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwDIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T10:44:08.93Z"
+              "WhenOpened": "2024-07-22T12:57:21.009Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateFilmeDto.cs",
-              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Dtos\\CreateFilmeDto.cs",
-              "RelativeDocumentMoniker": "AluraFilmesAPI\\Dtos\\CreateFilmeDto.cs",
-              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Dtos\\CreateFilmeDto.cs",
-              "RelativeToolTip": "AluraFilmesAPI\\Dtos\\CreateFilmeDto.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAywAcAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "CinemaControllers.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Controllers\\CinemaControllers.cs",
+              "RelativeDocumentMoniker": "AluraFilmesAPI\\Controllers\\CinemaControllers.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Controllers\\CinemaControllers.cs",
+              "RelativeToolTip": "AluraFilmesAPI\\Controllers\\CinemaControllers.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACwAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T10:42:38.459Z"
+              "WhenOpened": "2024-07-22T12:48:15.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240722115407_Resticti confi.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Migrations\\20240722115407_Resticti confi.cs",
+              "RelativeDocumentMoniker": "AluraFilmesAPI\\Migrations\\20240722115407_Resticti confi.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Migrations\\20240722115407_Resticti confi.cs",
+              "RelativeToolTip": "AluraFilmesAPI\\Migrations\\20240722115407_Resticti confi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:54:07.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240722114004_SessaoCinameFilme.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Migrations\\20240722114004_SessaoCinameFilme.cs",
+              "RelativeDocumentMoniker": "AluraFilmesAPI\\Migrations\\20240722114004_SessaoCinameFilme.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Migrations\\20240722114004_SessaoCinameFilme.cs",
+              "RelativeToolTip": "AluraFilmesAPI\\Migrations\\20240722114004_SessaoCinameFilme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:40:05.083Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ReadSessaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Dtos\\ReadSessaoDto.cs",
+              "RelativeDocumentMoniker": "AluraFilmesAPI\\Dtos\\ReadSessaoDto.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Dtos\\ReadSessaoDto.cs",
+              "RelativeToolTip": "AluraFilmesAPI\\Dtos\\ReadSessaoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:33:57.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessaoControllers.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Controllers\\SessaoControllers.cs",
+              "RelativeDocumentMoniker": "AluraFilmesAPI\\Controllers\\SessaoControllers.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Controllers\\SessaoControllers.cs",
+              "RelativeToolTip": "AluraFilmesAPI\\Controllers\\SessaoControllers.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:31:06.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmesContext.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Data\\FilmesContext.cs",
+              "RelativeDocumentMoniker": "AluraFilmesAPI\\Data\\FilmesContext.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Data\\FilmesContext.cs",
+              "RelativeToolTip": "AluraFilmesAPI\\Data\\FilmesContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:22:48.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240722112003_Filme nulo.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Migrations\\20240722112003_Filme nulo.cs",
+              "RelativeDocumentMoniker": "AluraFilmesAPI\\Migrations\\20240722112003_Filme nulo.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Migrations\\20240722112003_Filme nulo.cs",
+              "RelativeToolTip": "AluraFilmesAPI\\Migrations\\20240722112003_Filme nulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:20:04.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sessao.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Models\\Sessao.cs",
+              "RelativeDocumentMoniker": "AluraFilmesAPI\\Models\\Sessao.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Models\\Sessao.cs",
+              "RelativeToolTip": "AluraFilmesAPI\\Models\\Sessao.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:14:46.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Models\\Cinema.cs",
+              "RelativeDocumentMoniker": "AluraFilmesAPI\\Models\\Cinema.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Models\\Cinema.cs",
+              "RelativeToolTip": "AluraFilmesAPI\\Models\\Cinema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:14:20.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Filme.cs",
               "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Models\\Filme.cs",
               "RelativeDocumentMoniker": "AluraFilmesAPI\\Models\\Filme.cs",
               "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Models\\Filme.cs",
               "RelativeToolTip": "AluraFilmesAPI\\Models\\Filme.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T13:37:28.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "AluraFilmesAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\muril\\source\\repos\\AluraFilmesAPI\\AluraFilmesAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "AluraFilmesAPI\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-02T13:29:22.311Z"
+              "WhenOpened": "2024-07-22T11:14:17.199Z"
             }
           ]
         }

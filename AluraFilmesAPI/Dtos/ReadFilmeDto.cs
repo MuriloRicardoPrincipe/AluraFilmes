@@ -12,4 +12,5 @@ public class ReadFilmeDto
     public string Genero { get; set; }
 
     public DateTime HoraDaConsulta { get; set; } = DateTime.Now;
+    public ICollection<ReadSessaoDto> Sessoes { get; set; }
 }
